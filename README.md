@@ -1,7 +1,6 @@
-LeetCode
+LeetCode Solutions
 ========
 
-### LeetCode Algorithm
 Solutions in C++, Python3 or Java
 
 
