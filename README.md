@@ -5,6 +5,6 @@ LeetCode
 Solutions in C++, Python3 or Java
 
 
-| # | Title | Solution | Title | Difficulty | Tag |
-|---| ----- | -------- | ----- | ---------- | --- |
-|1030|xxx| xxx|Easy|xxx|
+| Problem Num | Title | Solution | Title | Difficulty | Tag |
+|-------------| ----- | -------- | ----- | ---------- | --- |
+|xxx|xxx| xxx|Easy|xxx|
